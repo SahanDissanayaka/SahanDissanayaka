@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahan Dissanayaka</h1>
 <h3 align="center">A robotics and machine learning enthusiast</h3>
 
+<img src="Media/robot.gif" alt="Demo Video" style="width:300px;height:auto;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahandissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="sahandissanayaka" /> </p>
 
 - 🔭 I’m currently working on **Micro Mouse Design Project**
