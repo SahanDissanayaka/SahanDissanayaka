@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Micro Mouse Design Project**
 
-- 🌱 I’m currently learning **ROS and Computer Vision**
+- 🌱 I’m currently learning **Robot Operating System(ROS) and Computer Vision**
 
 - 💬 Ask me about **Electronics , Robotics and Machine Learning**
 
