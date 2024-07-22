@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **Micro Mouse Design Project**
 
 - 🌱 I’m currently learning **Robot Operating System(ROS) and Computer Vision**
+  
+- 👯 I’m looking to collaborate on **Researches and Projects related to Robotics and Machine Learning**
 
 - 💬 Ask me about **Electronics , Robotics and Machine Learning**
 
